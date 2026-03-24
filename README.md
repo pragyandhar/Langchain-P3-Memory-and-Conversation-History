@@ -12,6 +12,14 @@ This project demonstrates conversational memory with LangChain by:
 
 The assistant runs in the terminal and keeps context so it can reference earlier messages without asking for the same information again.
 
+## Output
+
+### Video Output
+https://github.com/user-attachments/assets/6aacb719-7ce6-455a-9f27-2cbdc5078a0e
+
+### Screenshot
+![output](assets/output.png)
+
 ## Project Structure
 
 - `main.py`: CLI app loop. Generates a unique session ID and sends user input to the chain.
